@@ -1,0 +1,1 @@
+"2.Create program Which will take Swagger JSON as input (eg. http://petstore.swagger.io)3.Output should be all end points present in swagger (eg. "/pet")" 
